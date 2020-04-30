@@ -1,0 +1,1114 @@
+* {
+  outline: 0 !important;
+  box-sizing:border-box;
+}
+nav ul li:hover,nav ul li a:hover{
+background:violet;
+color:white;
+}
+
+nav ul li,nav ul li a{
+text-decoration:none;
+display:block;
+background:#ccc;
+color:black;
+position:relative;
+text-align:center;
+}
+nav ul li{
+list-style:none;
+height:50px;
+line-height:50px;
+}
+nav ul li a{
+height:100%;
+
+}
+.subMenu{
+display:none;
+width:150px;
+position:absolute;
+left:100%;
+top:0;
+}
+ul.menu{
+border:1px solid #ccc;
+width:150px;
+position:absolute;
+left:1172px;
+bottom:1438px;
+
+}
+
+nav ul li:hover .subMenu{
+display:block;
+}
+
+body {
+background: #000000  url(imag/2.jpg) no-repeat center ;
+height:2000px;
+position:absolute;
+line-height: 1;
+}
+*, *:after, *:before {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+transition: .5s ease-in-out;
+}
+header:after, .container:after, footer:after, .widget-posts-list li:after, #subscribe:after {
+content: "";
+display: table;
+clear: both;
+} 
+#shapka{
+	position:absolute;
+	left:450px;
+	bottom:1520px;
+	width:600px;
+	height:300px;
+	
+}
+.container {
+margin: 0 auto;
+width: 100%;
+max-width: 960px;
+padding: 0 15px;
+} 
+header {
+width: 100%;
+background: white;
+box-shadow: 3px 3px 1px rgba(0,0,0,.05);
+padding: 15px 0;
+margin-bottom: 30px;
+position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Playfair Display';
+font-weight: normal;
+letter-spacing: 1px;
+}
+ul {
+list-style: none;
+}
+a {
+text-decoration: none;
+outline: none;
+}
+img {
+display: block;
+width: 70%;
+}
+
+#infa{
+	position:fixed;
+	left:1563px;
+	width:370px;
+	height:830px;
+	bottom:137px;
+	top:0;
+
+}
+
+h1{
+
+
+color:white;
+position:absolute;
+left:450px;
+width:250px;
+height:40px;
+bottom:1520px;
+}
+
+#prok{
+	position:absolute;
+	width:1190px;
+	height:1600px;
+	left:365px;
+	bottom:30px;
+}
+#kartunka{
+	position:absolute;
+	left:373px;
+	bottom:1240px;
+	width:800px;
+	height:250px;
+}
+/*----------------------------------kontent1--------------------------------------------*/
+#dayz1{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	bottom:1170px;
+	width:1000px;
+}
+#dayz2{
+	color:white;
+	position:absolute;
+	font-size:12pt;
+	left:373px;
+	bottom:950px;
+	width:1000px;
+	height:200px;
+}
+#dayz3{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:40px;
+	bottom:1030px;
+}
+#dayz4{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:40px;
+	bottom:990px;
+}
+#dayz5{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:45px;
+	bottom:910px;
+}
+#dayz6{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:50px;
+	bottom:820px;
+}
+#dayz7{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:20px;
+	bottom:740px;
+}
+#dayz8{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:35px;
+	bottom:660px;
+}
+#dayz9{
+	color:white;
+	position:absolute;
+	font-size:14pt;
+	left:373px;
+	width:1000px;
+	height:50px;
+	bottom:550px;
+}
+/*-------------------------polosa-----------------------------------------------*/
+#polosa1{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:910px;
+}
+#polosa2{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:772px;
+}
+#polosa3{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:634px;
+}
+#polosa4{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:496px;
+}
+#polosa5{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:358px;
+}
+#polosa6{
+	position:fixed;
+	width:370px;
+	left:-2px;
+	bottom:220px;
+}
+#polosa7{
+	position:fixed;
+	width:370px;
+	bottom:841px;
+	left:-2px;
+}
+#polosa8{
+	position:fixed;
+	width:370px;
+	bottom:703px;
+	left:-2px;
+}
+#polosa9{
+	position:fixed;
+	width:370px;
+	bottom:565px;
+	left:-2px;
+}
+#polosa10{
+	position:fixed;
+	width:370px;
+	bottom:427px;
+	left:-2px;
+}
+#polosa11{
+	position:fixed;
+	width:370px;
+	bottom:289px;
+	left:-2px;
+}
+#polosa12{
+	position:fixed;
+	width:370px;
+	bottom:219px;
+	left:-2px;
+}
+#polosa13{
+	position:fixed;
+	width:370px;
+	bottom:149px;
+	left:-2px;
+}
+#polosa14{
+	position:fixed;
+	width:370px;
+	bottom:79px;
+	left:-2px;
+}
+/*---------------------knopka---------------------------------------------*/
+button:focus {
+outline: none !important
+}
+
+#knopka1{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:48px;
+	left:-1px;
+	bottom:919px;	
+	background:#000000;
+	 color: white;
+	 transition:0.2s ease-out;
+}
+#knopka2{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:852px;
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka3{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:782px;
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka4{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:712px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka5{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:644px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka6{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:574px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka7{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:507px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka8{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:438px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka9{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:368px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka10{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:300px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#knopka11{
+	position:fixed;
+	width:370px;
+	padding:5px;
+	height:64px;
+	left:-1px;
+	bottom:230px;	
+	background:#000000;
+	 color: white;
+	  transition:0.2s ease-out;
+}
+#sul1{
+	color:white;
+}
+
+/*------------------------------sulku------------------------------------------------------------*/
+#kontent{
+	position:fixed;
+	color:white;
+	left:100px;
+	margin:0 auto;
+	bottom:930px;
+	font-size:14pt;
+}
+.superbutton {
+position:fixed;
+  width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  border:0;
+  bottom:850px;
+}
+.knopkadis1{
+	position:fixed;
+	width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:790px;
+  border:0;
+}
+.knopkadis2{
+	position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:720px;
+  border:0;
+}
+.knopkadis3{
+	position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:650px;
+  border:0;
+}
+.knopkadis4{
+	position:fixed;
+  width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:582px;
+  border:0;
+}
+.knopkadis5{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:512px;
+  border:0;
+}
+.knopkadis6{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:444px;
+  border:0;
+}
+.knopkadis7{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:374px;
+  border:0;
+}
+.knopkadis8{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:304px;
+  border:0;
+}
+.knopkadis9{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:234px;
+  border:0;
+}
+.knopkadis10{
+  position:fixed;
+   width: 18%;
+  height: 5%;
+  text-decoration: none;
+  padding-top: 9px;
+  color: #a675b3;
+  line-height: 10px;
+  display: block;
+  margin: 0 auto;
+  font: normal 17px arial;
+  background:#000000;
+  bottom:164px;
+  border:0;
+}
+/*---------------------------------------------------2vkladka-------------------------------------------------------------*/
+
+#solt{
+	position:absolute;
+	left:410px;
+	width:900px;
+	height:400px;
+	bottom:1120px;
+}
+#gl{
+position:absolute;
+left:450px;
+width:650px;
+height:40px;
+bottom:1520px;
+color:white;
+font-size:22pt;
+}
+#gl1{
+	color:white;
+	position:absolute;
+	left:410px;
+	width:940px;
+	height:20px;
+	bottom:1020px;
+	font-size:18pt;
+}
+a{
+	color:green;
+}
+#gl2{
+	color:white;
+	position:absolute;
+	left:410px;
+	width:940px;
+	height:20px;
+	bottom:920px;
+	font-size:18pt;
+}
+#solt11{
+	left:380px;
+	position:absolute;
+	bottom:40px;
+	width:1150px;
+	height:800px;
+	
+}
+/*----------------------------vkladka3----------------------------------------*/
+#gl31{
+	position:relative;
+	left:440px;
+	color:white;
+	bottom:-400px;
+	font-size:24pt;
+}
+#gl32{
+	position:absolute;
+	left:440px;
+	color:white;
+	width:800px;
+	bottom:1400px;
+	font-size:18pt;
+	
+}
+#gl33{
+	position:absolute;
+	left:370px;
+	width:600px;
+	font-size:18pt;
+	color:white;
+	bottom:1300px;
+	left:440px;
+}
+#gl34{
+color:white;
+position:absolute;
+font-size:18pt;	
+width:800px;
+left:440px;
+bottom:1150px;
+}
+#sos{
+	position:absolute;
+	left:420px;
+	width:1000px;
+	height:600px;
+	bottom:500px;
+}
+#gl35{
+	position:absolute;
+	left:440px;
+	color:white;
+	width:900px;
+	font-size:18pt;
+	bottom:250px;
+}
+/*---------------------------------vkladka4------------------------------------*/
+#gl41{
+	position:absolute;
+	left:440px;
+	color:white;
+	font-size:20pt;
+	width:200px;
+	bottom:1500px;
+}
+#gl42{
+	position:absolute;
+	font-size:20pt;
+	color:green;
+	width:800px;
+	bottom:1450px;
+	left:700px;
+	margin:0 auto;
+}
+#gl43{
+	position:absolute;
+	font-size:16pt;
+	color:white;
+	width:600px;
+	bottom:1400px;
+	left:400px;
+}
+#gl44{
+	position:absolute;
+	font-size:14pt;
+	width:900px;
+	left:400px;
+	color:white;
+	bottom:1000px;
+}
+#gl45{
+	position:absolute;
+	font-size:14pt;
+	width:920px;
+	left:400px;
+	color:white;
+	bottom:700px;
+	
+}#gl46{
+	position:absolute;
+	left:400px;
+	bottom:200px;
+	width:1000px;
+	height:500px;
+}
+
+/*--------------------------vkladka6--------------------------------------------------------*/
+#gl61{
+	position:absolute;
+	color:white;
+	font-size:22pt;
+	width:200px;
+	height:20px;
+	left:440px;
+	bottom:1500px;
+}
+#gl62{
+	position:absolute;
+	color:green;;
+	font-size:18pt;
+	width:350px;
+	height:20px;
+	left:600px;
+	bottom:1450px;
+}
+#gl63{
+	position:absolute;
+	width:1000px;
+	height:800px;
+	left:440px;
+	bottom:650px;
+}
+#gl64{
+	position:absolute;
+	color:green;
+	font-size:18pt;
+	width:350px;
+	height:20px;
+	left:450px;
+	bottom:600px;
+}
+#gl65{
+	position:absolute;
+	width:1000px;
+	height:500px;
+	left:440px;
+	bottom:100px;
+}
+/*------------------------------vkladka7------------------------------------------*/
+#gl71{
+	position:absolute;
+	width:1190px;
+	height:500px;
+	left:365px;
+	bottom:1130px;
+}
+#gl72{
+	position:absolute;
+	color:green;
+	font-size:24pt;
+	width:700px;
+	height:30px;
+	bottom:1500px;
+	left:440px;
+}
+#gl73{
+	position:absolute;
+	color:#969090;
+	font-size:14pt;
+	left:440px;
+	bottom:1420px;
+	width:300px;
+	height:40px;
+}
+#gl74{
+	position:absolute;
+	color:#969090;
+	font-size:14pt;
+	left:440px;
+	bottom:1340px;
+	width:300px;
+}
+#gl75{
+	position:absolute;
+	font-size:14pt;
+	left:740px;
+	bottom:1420px;
+	width:300px;
+	height:40px;
+}
+#gl76{
+	position:absolute;
+	font-size:14pt;
+	left:740px;
+	bottom:1320px;
+	width:300px;
+	height:40px;
+}	
+#gl77{
+	position:absolute;
+	color:#969090;
+	font-size:14pt;
+	left:1040px;
+	bottom:1420px;
+	width:300px;
+	height:40px;
+}
+#gl78{
+	position:absolute;
+	color:#969090;
+	font-size:14pt;
+	left:1040px;
+	bottom:1320px;
+	width:300px;
+	height:40px;
+}
+
+/*---------------------------------------vkldka8-----------------------------------*/
+
+#gl81{
+	position:absolute;
+	color:white;
+	left:440px;
+	bottom:1450px;
+	width:450px;
+	font-size:25pt;
+}
+#gl82{
+	position:absolute;
+	color:green;
+	left:440px;
+	bottom:1350px;
+	width:1000px;
+	font-size:25pt;
+}
+#gl83{
+	position:absolute;
+	color:#969090;
+	left:440px;
+	bottom:1200px;
+	width:1000px;
+	font-size:25pt;
+}
+.gl84{
+	position:absolute;
+	left:700px;
+	bottom:1235px;
+	width:1000px;
+	font-size:25pt;
+}
+.video1{
+	position:absolute;
+	left:440px;
+	bottom:800px;
+	width:1000px;
+	height:400px;
+}
+.downloadvideo1{
+	position:absolute;
+	bottom:780px;
+	left:440px;
+	color:green;
+	font-size:22pt;
+	width:300px;
+}
+.video2{
+	position:absolute;
+	left:440px;
+	bottom:300px;
+	width:1000px;
+	height:400px;
+}
+.downloadvideo2{
+	position:absolute;
+	bottom:280px;
+	left:440px;
+	color:green;
+	font-size:22pt;
+	width:300px;
+}
+/*--------------------------------vkladka9-------------------------------------------*/
+
+#gl91{
+	position:absolute;
+	color:green;
+	margin:0 auto;
+	left:700px;
+	bottom:1500px;
+	font-size:30pt;
+	width:700px;
+	height:40px;
+}
+#gl922{
+	color:green;
+	position:absolute;
+	left:440px;
+	bottom:1400px;
+	font-size:20pt;
+}
+#gl92{
+	position:absolute;
+	color:white;
+	left:570px;
+	bottom:1295px;
+	font-size:18pt;
+	width:900px;
+}
+#gl93{
+	position:absolute;
+	color:green;
+	left:440px;
+	bottom:1200px;
+	font-size:20pt;
+	width:300px;
+	height:40px;
+}
+#gl94{
+	position:absolute;
+	color:white;
+	left:640px;
+	bottom:990px;
+	font-size:18pt;
+	width:850px;
+	height:250px;
+}
+#gl95{
+	position:absolute;
+	color:green;
+	left:440px;
+	bottom:1100px;
+	font-size:20pt;
+	width:300px;
+	height:40px;
+}
+#gl96{
+	position:absolute;
+	color:white;
+	left:600px;
+	bottom:1110px;
+	font-size:20pt;
+	width:500px;	
+}
+#gl97{
+	position:absolute;
+	color:white;
+	left:440px;
+	width:1100px;
+	font-size:20pt;
+	bottom:900px;
+}
+#gl98{
+	position:absolute;
+	color:white;
+	left:440px;
+	width:1000px;
+	bottom:600px;
+	font-size:20pt;
+}
+#gl99{
+	position:absolute;
+	color:green;
+	left:440px;
+	font-size:20pt;
+	width:200px;
+	bottom:550px;
+}
+#gl910{
+	position:absolute;
+	color:white;
+	left:440px;
+	font-size:20pt;
+	width:1000px;
+	bottom:250px;
+}
+/*--------------------------------vkladka10---------------------------------------------------*/
+#prok21{
+	position:absolute;
+	width:1190px;
+	height:700px;
+	left:365px;
+	bottom:930px;
+}
+#gl101{
+	position:absolute;
+	left:440px;
+	color:white;
+	font-size:20pt;
+	bottom:1550px;
+	width:400px;
+}
+#gl102{
+	position:absolute;
+	left:440px;
+	color:white;
+	font-size:20pt;
+	bottom:1500px;
+	width:800px;
+}
+#quid{
+	position:absolute;
+	left:440px;
+	width:550px;
+	height:200px;
+	bottom:1320px;
+}
+#gl103{
+	position:absolute;
+	left:440px;
+	width:1000px;
+	height:450px;
+	bottom:800px;
+	color:white;
+	font-size:20pt;
+}
+/*--------------------------------vkldka11---------------------------*/
+#gl111{
+	position:absolute;
+	color:white;
+	font-size:20pt;
+	left:440px;
+	width:950px;
+	bottom:1150px;
+	
+}
+#tororo{
+	position:absolute;
+	font-size:20pt;
+	left:440px;
+}
+#table{
+	color:white;
+	position:fixed;
+	right:50px;
+	bottom:20px;
+}
+#kekc{
+	position:fixed;
+	width:330px;
+	height:800px;
+	right:10px;
+	bottom:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
